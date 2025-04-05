@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+}
+.boxes{
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-left: 43%;
+    margin-top: 60px;
+}
+.box1{
+  height: 100px;
+  width: 100px;
+  background-color: rgb(250, 90, 116); 
+  border: 5px solid black;
+  border-radius: 15px; 
+}
+.box2{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(52, 120, 149); 
+    border: 5px solid black;
+    border-radius: 15px; 
+}
+.box3{
+    height: 100px;
+    width: 100px;
+    background-color: orange; 
+    border: 5px solid black;
+    border-radius: 15px; 
+}
+.box4{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(124, 124, 254); 
+    border: 5px solid black;
+    border-radius: 15px; 
+}
+.flash{
+    background-color: #fff;
+}
+.userflash{
+    background-color: green;
+}
